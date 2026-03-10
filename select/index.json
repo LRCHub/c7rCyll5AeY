@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "CHEER UP",
+  "base_artist": "TWICE",
+  "createdAt": "2026-03-10T07:31:04.198136Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cheer Up, My Brother",
+      "artist": "HNNY",
+      "has_synced": true,
+      "path": "select/01_Cheer_Up,_My_Brother_HNNY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cheer Up Charlie",
+      "artist": "Primus",
+      "has_synced": true,
+      "path": "select/02_Cheer_Up_Charlie_Primus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cheer Up, Boys (Your Make Up Is Running)",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/03_Cheer_Up,_Boys_(Your_Make_Up_Is_Running)_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cheer Up",
+      "artist": "Smith Westerns",
+      "has_synced": true,
+      "path": "select/04_Cheer_Up_Smith_Westerns.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cheer Up",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/05_Cheer_Up_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Genki Wo Dashite / Cheer Up",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/06_Genki_Wo_Dashite___Cheer_Up_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cheer Up, Boys (Your Make Up Is Running)",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/07_Cheer_Up,_Boys_(Your_Make_Up_Is_Running)_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cheer Up. Boys (Your Make Up Is Running)",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/08_Cheer_Up._Boys_(Your_Make_Up_Is_Running)_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cheer Up!",
+      "artist": "A Great Big World",
+      "has_synced": true,
+      "path": "select/09_Cheer_Up!_A_Great_Big_World.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cheer Up",
+      "artist": "Bob Marley",
+      "has_synced": false,
+      "path": "select/10_Cheer_Up_Bob_Marley.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cheer Up (Live in Fullerton, CA) - Best Of",
+      "artist": "Reel Big Fish",
+      "has_synced": false,
+      "path": "select/11_Cheer_Up_(Live_in_Fullerton,_CA)_-_Best_Of_Reel_Big_Fish.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cheer Up / Blues Ending",
+      "artist": "White Denim",
+      "has_synced": true,
+      "path": "select/12_Cheer_Up___Blues_Ending_White_Denim.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cheer Up",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/13_Cheer_Up_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everybody Cheer Up Song",
+      "artist": "Dosh",
+      "has_synced": false,
+      "path": "select/14_Everybody_Cheer_Up_Song_Dosh.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHEER UP",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_CHEER_UP_TWICE.txt"
+    }
+  ]
+}
